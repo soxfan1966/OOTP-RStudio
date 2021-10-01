@@ -1,0 +1,13 @@
+Package: OOTPStats
+Version: 0.1
+Date: 2021-10-01
+Description: OOTP Stats project arranged for myBinder.org
+Author: soxfan1966 <soxfan1966@charter.net>
+Depends:
+    R (>= 3.5.0)
+Imports:
+    dplyr,
+    readxl
+    writexl
+© 2021 GitHub, Inc.
+Terms
