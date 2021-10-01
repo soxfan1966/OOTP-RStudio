@@ -1,2 +1,10 @@
-install.packages(c("dplyr",
-                   "readxl", "writexl"))
+install.packages(c("base",
+                   "datasets",
+                   "methids",
+                   "stats",
+                   "utils",
+                   "graphics",
+                   "grDevices",
+                   "dplyr",
+                   "readxl",
+                   "writexl"))
