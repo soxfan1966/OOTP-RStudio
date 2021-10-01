@@ -1,6 +1,6 @@
 install.packages(c("base",
                    "datasets",
-                   "methids",
+                   "methods",
                    "stats",
                    "utils",
                    "graphics",
