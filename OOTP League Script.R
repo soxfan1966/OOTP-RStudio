@@ -3,7 +3,7 @@ library(dplyr)
 library(readxl)
 library(writexl)
 # load Multipliers
-wOBAMult <- read_excel("C:\\Users\\user\\Desktop\\OOTP 22 Weekly League Stats\\R Data Projects\\wOBAMultipliers.xls")
+wOBAMult <- read_excel("wOBAMultipliers.xls")
 #View(wOBAMult)
 # clean up prior objects first
 rm(HitterCombined)
